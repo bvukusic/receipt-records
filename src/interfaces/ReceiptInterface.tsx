@@ -1,0 +1,15 @@
+export interface Receipt {
+    id: number,
+    receiptNumber: number,
+    RBR: number,
+    direction: string,
+    receiptDate: Date,
+    paymentDeadline:  Date,
+    partnerName: string,
+    partnerAdress: string,
+    partnerOIB: number,
+    preTaxAmount: number,
+    tax: number,
+    taxAmount: number,
+    postTaxAmount: number,
+};
