@@ -54,6 +54,7 @@ Web application used for generating and managing receipts.
    git clone https://github.com/bvukusic/receipt-records.git
    ```
 2. Install NPM packages
+   ```sh
    npm install
    ```
 3. Run the following command inside the /receipt-records/ directory
@@ -66,7 +67,9 @@ Web application used for generating and managing receipts.
 ## Usage
 1. Add, edit and delete your receipts with the appropriate buttons
 
-4. Sort the receipts by clicking the appropriate column title
+2. Sort the receipts by clicking the appropriate column title
+
+3. View receipts by clicking their row
 
 
 
