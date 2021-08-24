@@ -4,12 +4,6 @@
 
   <h3 align="center">Receipt Manager</h3>
 
-  <p align="center">
-    7 IT application task
-    <br />
-  </p>
-
-
 
 
 <!-- TABLE OF CONTENTS -->
